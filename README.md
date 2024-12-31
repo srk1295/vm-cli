@@ -1,6 +1,6 @@
 -------------- CLI COMMAND ----------------
 
-git clone https://bitbucket-prod.aws.baxter.com/scm/vmprov/vm-provisioner.git
+git clone https://github.com/srk1295/vm-cli.git
 
 pip3 install python-build
 
